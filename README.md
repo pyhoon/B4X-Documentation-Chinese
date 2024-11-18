@@ -1,3 +1,3 @@
 # B4X-Documentation-Chinese
 
-注意： 暂时才翻译到115页而已
+所有页面现已翻译。
